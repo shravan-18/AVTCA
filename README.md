@@ -13,11 +13,14 @@ AVT-CA Model Diagram
 
 If you use our work, please cite as:
 ```bibtex
-@article{chumachenko2022self,
-  title={Self-attention fusion for audiovisual emotion recognition with incomplete data},
-  author={Chumachenko, Kateryna and Iosifidis, Alexandros and Gabbouj, Moncef},
-  journal={arXiv preprint arXiv:2201.11095},
-  year={2022}
+@misc{r2024multimodalemotionrecognitionusing,
+      title={Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention}, 
+      author={Joe Dhanith P R and Shravan Venkatraman and Modigari Narendra and Vigya Sharma and Santhosh Malarvannan and Amir H. Gandomi},
+      year={2024},
+      eprint={2407.18552},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2407.18552}, 
 }
 ```
 
